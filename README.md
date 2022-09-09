@@ -1,5 +1,5 @@
 # Blogspot-Image-Generator
-Feed of random images supported by the Lorem Picsum API
+Feed of random cat images supported by thecatapi. Once this application is running locally, click the generate button to generate a new, random image of a cat. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
